@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "faunadb": "^4.4.1",
+    "lodash": "^4.17.21",
+    "nodes2ts": "^2.0.0",
+    "s2-geometry": "^1.2.10"
+  }
+}
